@@ -109,6 +109,8 @@ void setUp(){
   
   //Interrupts enabled
   sei();
+	// asm("sei);
+	// if the command above is not recognized.
 }
 
 
